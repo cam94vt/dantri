@@ -1,2 +1,1 @@
-<?php
-echo "HomeWork";
+PC2 edit file
